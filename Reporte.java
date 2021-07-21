@@ -1,9 +1,8 @@
 // Programa en Java de la clase "Reporte"
 // Proyecto Final de Programación Avanzada
-// Alicia Estefany Gallegos Orozco 3E 19310379
 // Ventana Reporte general
-// En esta ventana se mostrará todos los artículos registrados, 
-// cantidad en existencia y la fecha última en que ingresó mercancía
+/* En esta ventana se mostrará todos los artículos registrados, 
+ cantidad en existencia y la fecha última en que ingresó mercancía */
 
 import javax.swing.*; //Se necesita para diseño de ventanas
 import javax.swing.event.*; //Se necesita para eventos de Check box y Radio button
