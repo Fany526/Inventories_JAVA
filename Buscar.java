@@ -1,6 +1,5 @@
 // Programa en Java de la clase "Buscar"
 // Proyecto Final de Programación Avanzada
-// Alicia Estefany Gallegos Orozco 3E 19310379
 // Ventana Búsqueda
 // En esta ventana se podrá buscar las características de un artículo en específico
 
