@@ -1,9 +1,8 @@
 // Programa en Java de la clase "Nuevo"
 // Proyecto Final de Programación Avanzada
-// Alicia Estefany Gallegos Orozco 3E 19310379
 // Ventana Ingresar nueva mercancía
-// En esta ventana se podrá registrar un nuevo artículo 
-// con sus respectivas características y cantidad de mercancía ingresada del mismo
+/* En esta ventana se podrá registrar un nuevo artículo 
+con sus respectivas características y cantidad de mercancía ingresada del mismo */
 
 import javax.swing.*; //Se necesita para diseño de ventanas
 import javax.swing.event.*; //Se necesita para eventos de Check box y Radio button
