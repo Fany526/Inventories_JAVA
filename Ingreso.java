@@ -1,6 +1,5 @@
 // Programa en Java de la clase "Ingreso"
 // Proyecto Final de Programación Avanzada
-// Alicia Estefany Gallegos Orozco 3E 19310379
 // Ventana Ingresar mercancía de algún articulo disponible
 
 import javax.swing.*; //Se necesita para diseño de ventanas
