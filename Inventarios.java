@@ -1,7 +1,5 @@
 // Programa en Java de la clase "Inventarios"
 // Proyecto Final de Programación Avanzada
-// Alicia Estefany Gallegos Orozco 3E 19310379
-// Primer Avance: Todas las pantallas, Menús, Submenús (sin funcionalidad)
 // Ventana principal
 /*
 DESCRIPCIÓN DEL PROYECTO:
@@ -14,25 +12,6 @@ DESCRIPCIÓN DEL PROYECTO:
 ➢ Fecha de retiro de mercancías 
 ➢ Existencia (= existencia anterior + ingresó – retiro)
 ➢ Reporte de artículos y su existencia
-
-TODAS LAS APLICACIONES DEBEN:
-	➢ Utilizar todos los elementos aprendidos en el semestre
-		Menús/Submenús
-		TextFields
-		TextAreas
-		Etiquetas
-		Scroll Bars
-		Color
-		Font
-		Ventana Emergente
-		Botón
-		ComboBox
-		CheckBox/RadioButton
-		Mouse
-		Key
-		Focus
-	➢ Realizar altas, bajas, modificaciones y consultas de la información capturada
-	➢ Manejar excepciones
 */
 
 import javax.swing.*; //Se necesita para diseño de ventanas
