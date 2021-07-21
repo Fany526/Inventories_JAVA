@@ -1,7 +1,7 @@
 // Programa en Java de la clase "Retiro"
 // Proyecto Final de Programación Avanzada
-/* Ventana Retirar mercancía de algún articulo disponible
-  En esta ventana se podrá retirar mercancía de un artículo*/
+// Ventana Retirar mercancía de algún articulo disponible
+// En esta ventana se podrá retirar mercancía de un artículo
 
 import javax.swing.*; //Se necesita para diseño de ventanas
 import javax.swing.event.*; //Se necesita para eventos de Check box y Radio button
