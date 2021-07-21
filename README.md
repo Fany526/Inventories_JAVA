@@ -2,9 +2,9 @@
 Programa para el control de las existencias de una tienda, basado en el intercambio de datos e información entre ventanas.
 
 
-DESCRIPCIÓN DEL PROYECTO:
+DESCRIPCIÓN DEL PROYECTO
 ➢ Artículo
-➢ Descripción
+➢ Descripción del artículo
 ➢ Unidad de medida (litros, gramos, paquetes, bultos, cubetas, etc.)
 ➢ Ingreso de mercancías
 ➢ Retiro de mercancías
@@ -14,10 +14,10 @@ DESCRIPCIÓN DEL PROYECTO:
 ➢ Reporte de artículos y su existencia
 
 
-FUNCIONALIDAD Y ELEMENTOS DE LA APLICACIÓN:
+FUNCIONALIDAD Y ELEMENTOS DE LA APLICACIÓN
 	➢ Realizar altas, bajas, modificaciones y consultas de la información capturada
 	➢ Manejar excepciones
-	➢ Componentes utilizados
+	➢ Componentes utilizados:
 		  Menús/Submenús
 		  TextFields
 		  TextAreas
@@ -25,7 +25,7 @@ FUNCIONALIDAD Y ELEMENTOS DE LA APLICACIÓN:
 		  Scroll Bars
 		  Color
 		  Font
-      Botón
+      		  Botones
 		  ComboBox
 		  CheckBox/RadioButton
 		  Mouse
