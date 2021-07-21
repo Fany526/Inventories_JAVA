@@ -1,6 +1,5 @@
 // Programa en Java de la clase "Datos"
 // Proyecto Final de Programación Avanzada
-// Alicia Estefany Gallegos Orozco 3E 19310379
 // Datos iniciales
 
 import javax.swing.*; //Se necesita para diseño de ventanas
